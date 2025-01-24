@@ -1,30 +1,41 @@
+
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Main Page
 
-## Must-Haves
+### Must-Haves
 
-> these are necessary for basic usability
+- [ ] As a user, I want to see the `announcement-bar` so that I can be update about the official announcement from the site.
+          
+- [ ] As a user, I want to see the `Nav Bar` so that I can get a quick overview  and navigate  through the reference pages.
+      
+- [ ] As a user, I want to see the `Presentation` so that I can see the company brand.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to see the `stats-section` so that I can see the statistics.
 
-## Should-Haves
+- [ ] As a user, I want to see the `program-section` so that I can have more knowledge about what the corporation
+      does.
 
-> these will complete the user experience, but are not necessary
+- [ ] As a user, I want to know the `hiring-section` so that I can have more information about the people that was hire after the program.
+ 
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to know the  `HYF-info` so that I can see more info about and their mission.
 
-## Could-Haves
+- [ ] As a user, I want to know the `companies ` so that I can see
+      the companies that hire the graduates from the program.
+  
 
-> would be really cool ... if there's time
+- [ ] As a user, I want to know the `Contact-footer` so that I can have more information.
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+
+
+### Should-Haves
+
+As a user I want to see some testimonies of the student to take the decision to join. 
+
+
+### Could-Haves
+
+
+As a user i like to see more videos about how the program 
+works 
