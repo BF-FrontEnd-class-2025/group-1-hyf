@@ -1,10 +1,10 @@
-# Name of project
+# Hack Your Future
 
-> A longer description
+> Hack Your Future is practice agile development, HTML and CSS
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Hack Your Future](#hack-your-future)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -14,7 +14,7 @@
   - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
-  - [Contact](#contact)
+  - [Contact](#by)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -22,29 +22,45 @@
 
 ## General info
 
-> A short description
+> HackYourFuture is a not-for-profit coding school for people with limited
+> access to education and the labor market.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/hyfimg.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- CSS
+- HTML
 
 ## Setup
 
-- `npm run start`
+- git clone <https://github.com/BF-FrontEnd-class-2025/group-1-hyf.git>
+- npm install
 
 ## Code Examples
 
-```js
-// the hello world program
-console.log("Hello World");
+```css
+-webkit-text-size-adjust: 100%;
+--dark-gray: #131313;
+--border-dark: #13131326;
+--white: white;
+--border-white: #ffffff26;
+--light-gray: whitesmoke;
+color: var(--dark-gray);
+font-family: Open Sauce One, sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+-webkit-font-smoothing: antialiased;
+box-sizing: border-box;
+z-index: 2;
+width: 100%;
+position: relative;
+opacity: 1;
 ```
 
 ## Features
@@ -68,9 +84,15 @@ Project is: _in progress_
 
 Project by freeCodeCamp.org
 
-## Contact
+### By
 
-By [Name]
+[Melbana](https://github.com/MElbanna200/MElbanna200.git)
+
+[Arsan](https://github.com/A-SHA256/A-SHA256.git)
+
+[Susana](https://github.com/SusanaLoaiza/SusanaLoaiza.git)
+
+[anton](https://github.com/antonaksyuk/antonaksyuk.git)
 
 ## Instructions for use
 

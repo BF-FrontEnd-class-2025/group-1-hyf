@@ -20,6 +20,8 @@
     "Savviness",
     "bootcamps",
     "Janssen"
+    "Melbana",
+    "Arsan"
   ],
   "ignorePaths": [
     "node_modules/**",

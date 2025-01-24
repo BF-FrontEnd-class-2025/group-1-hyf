@@ -1,17 +1,17 @@
-# Design
+## Design
 
-## Project's design overview
 
-> Give an overview of your project's design
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+
+
+
+<br>
+<img src="../planning/HYF.png"  alt="HYF">
+
+
+## Main Page
 
 ---
+<br>
 
-## Wireframe(s)
-
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+<img src="../styles/design1.png" >
