@@ -1,17 +1,9 @@
-## Design
+# Design
 
-
-
-
-
-
-<br>
-<img src="../planning/HYF.png"  alt="HYF">
-
+![Hyf](./HYF.png "Text to show on mouseover").
 
 ## Main Page
 
 ---
-<br>
 
-<img src="../styles/design1.png" >
+![Hyf](./design1.png "design").
